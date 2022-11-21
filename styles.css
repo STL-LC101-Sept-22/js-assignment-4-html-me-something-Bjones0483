@@ -8,7 +8,6 @@ body {
 h1 {
     text-decoration: underline;
     color: navy;
-    text-align: center;
 }
 
 header {
@@ -36,9 +35,10 @@ p.align {
     text-align: center;
 }
 
-.funParagraph {
+#funParagraph {
     color: green;
     text-align: center;
+    text-decoration: center;
 }
 #mainHeading {
     color: red;
