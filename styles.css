@@ -27,10 +27,6 @@ header {
 .indent {
     text-indent: 1%;
 }
-.funParagraph {
-    color: green;
-    text-align: center;
-}
 
 #testP {
     color: red;
@@ -39,6 +35,11 @@ header {
 
 .align {
     text-align: center;
+}
+
+.funParagraph {
+    color: green;
+    text-align: center:
 }
 
 
