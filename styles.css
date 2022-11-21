@@ -25,7 +25,7 @@ header {
 }
 
 .indent {
-    text-indent: 1px;
+    text-indent: 1%;
 }
 .funParagraph {
     color: green;
