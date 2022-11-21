@@ -15,7 +15,7 @@ header {
     font-size: 50px;
     text-decoration: underline;
 }
-li.center {
+.center {
     text-indent: 1%;
 }
 
@@ -25,22 +25,34 @@ li.center {
     font-size: 25px;
 }
 
+<<<<<<< HEAD
 p.indent {
     text-indent: 1px;
 }
 
+=======
+.indent {
+    text-indent: 1%;
+}
+>>>>>>> 54d93e2d64862b3170ae2eaf6c9edb7a1e538d8c
 
 #testP {
     color: red;
     text-align: center;
 }
 
-p.align {
+.align {
     text-align: center;
 }
 
 .funParagraph {
     color: green;
+<<<<<<< HEAD
     text-align: center;
 }
+=======
+    text-align: center:
+}
+
+>>>>>>> 54d93e2d64862b3170ae2eaf6c9edb7a1e538d8c
 
