@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding: 50px;
+    display: block;
+}
+
+h1 {
+    text-decoration: underline;
+    color: navy;
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+li.center {
+    text-indent: 1%;
+}
+
+
+
+p.indent {
+    text-indent: 1px;
+}
+
+
+#jill {
+    color: red;
+    text-align: center;
+}
+
+p.align {
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+    text-align: center;
+
+}
+#mainHeading {
+    color: red;
+    font-size: 25px;
+    text-decoration: underline;
+}
