@@ -35,8 +35,8 @@ p.align {
     text-align: center;
 }
 
-#funParagraph {
-    color: green;
+.funParagraph {
+    color: #008000;
     text-align: center;
     text-decoration: center;
 }
@@ -45,4 +45,3 @@ p.align {
     font-size: 25px;
     text-decoration: underline;
 }
-
